@@ -112,7 +112,7 @@ You gain the following benefits while you are unarmed or wielding
 only monk weapons and you aren't wearing armor or wielding a shield:
 
 -  You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
--  You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, ashown in the Martial Arts column of the Monk table.
+-  You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
 -  When you use the Attack action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For

@@ -397,7 +397,7 @@ Paladin Level Spells
 3rd           :ref:`srd:protection-from-evil-and-good`, :ref:`srd:sanctuary`
 5th           :ref:`srd:lesser-restoration`, :ref:`srd:zone-of-truth`
 9th           :ref:`srd:beacon-of-hope`, :ref:`srd:dispel-magic`
-13th          :ref:`srd:freedom-of-movement`, *guardian of faith*
+13th          :ref:`srd:freedom-of-movement`, :ref:`srd:guardian-of-faith`
 17th          :ref:`srd:commune`, :ref:`srd:flame-strike`
 ============= ================
 

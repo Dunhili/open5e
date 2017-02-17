@@ -423,7 +423,7 @@ another creature (other than itself) of your choice.
     
     Uncanny Dodge only works against one attack per round, since it expends your reaction. 
     
-    It works any attack with an attack roll (including a spell attack)
+    It works against any attack with an attack roll (including a spell attack)
     but it is no help against a spell or effect that requires a saving throw instead of an attack roll
     
     .. rst-class:: source

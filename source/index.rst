@@ -8,17 +8,6 @@ Open5e
 
 Open5e aims to be the best open-source resource for 5e content.
 
-.. Sidebar:: Hey! Stuff is missing!
-   :class: missing
-       
-   Some content you may be expecting was not released as part of the `5e SRD <http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf>`_,
-   so we aren't allowed to include it in this site.
-
-   We are hoping to fill in the gaps using quality homebrew and 3rd party OGL content.
-   `Contact us <mailto:gm@5esrd.com>`_ or `make a pull request <https://github.com/eepMoody/open5e>`_ if you know something we should add!
-
-   .. rst-class:: source
-
 What are we about?
 ------------------
 
@@ -56,7 +45,7 @@ The 5e SRD
    :name: mastertoc
    :titlesonly:
    :glob:
-   :maxdepth: 2
+   :maxdepth: 3
 
    */index
 

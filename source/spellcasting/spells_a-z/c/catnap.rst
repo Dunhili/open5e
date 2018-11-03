@@ -1,0 +1,27 @@
+
+.. _srd:catnap:
+
+Catnap (XGE)
+-------------------------------------------------------------
+
+3rd-level enchantment
+^^^^^^^^^^^^^^^^^^^^^
+
+**Casting Time:** 1 action
+
+**Range:** 30 feet
+
+**Components:** S, M (Sand)
+
+**Duration:** Concentration, up to 1 minute
+
+**Casting Classes:** Bard, Sorcerer, Wizard
+
+Up to three willing creatures you see of your choice fall :ref:`srd:unconscious`. The
+spell ends early if a target takes damage or someone uses an action to shake or
+slap it awake. If a target is unconscious for the full duration, it gains the
+benefit of a short rest, and it can't be affected by this spell until it finishes a
+long rest.
+
+**At Higher Levels:** You can target one additional willing creature for each
+slot level above 3rd.

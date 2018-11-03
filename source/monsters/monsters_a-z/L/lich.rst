@@ -52,7 +52,7 @@ with spell attacks). The lich has the following wizard spells prepared:
 
 **1st level (4 slots)**: :ref:`srd:detect-magic`, :ref:`srd:magic-missile`, :ref:`srd:shield`, :ref:`srd:thunderwave`
 
-**2nd level (3 slots)**: :ref:`srd:acid-arrow`, :ref:`srd:detect-thoughts`, :ref:`srd:invisibility`, :ref:`srd:mirror-image`
+**2nd level (3 slots)**: :ref:`srd:melfs-acid-arrow`, :ref:`srd:detect-thoughts`, :ref:`srd:invisibility`, :ref:`srd:mirror-image`
 
 **3rd level (3 slots)**: :ref:`srd:animate-dead`, :ref:`srd:counterspell`, :ref:`srd:dispel-magic`, :ref:`srd:fireball`
 

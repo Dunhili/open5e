@@ -1,0 +1,30 @@
+
+.. _srd:enervation:
+
+Enervation (XGE)
+-------------------------------------------------------------
+
+5th-level necromancy
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**Casting Time:** 1 action
+
+**Range:** 60 feet
+
+**Components:** V, S
+
+**Duration:** Concentration, up to 1 minute
+
+**Casting Classes:** Sorcerer, Warlock, Wizard
+
+Choose a creature you can see to make a Dexterity save. On a success,
+it takes 2d8 necrotic damage and the spell ends. On failure, the
+target takes 4d8 necrotic damage, and you can use your action on
+your turns to automatically deal 4d8 necrotic damage to it. The spell
+ends if you use your action to do anything else, if the target is
+outside the spell's range, or if it has total cover from you.
+
+Whenever the spell deals damage, you regain hit points equal to half
+the amount of the damage taken.
+
+**At Higher Levels:** The damage increases by 1d8 for each slot level above 5th.

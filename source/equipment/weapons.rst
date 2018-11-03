@@ -68,7 +68,7 @@ for use when fighting with two weapons.
 **Loading.** Because of the time required to load this weapon, you can
 fire only one piece of ammunition from it when you use an action, bonus
 action, or reaction to fire it, regardless of the number of attacks you
-can normally make.
+can normally make. Loading a one-handed weapon requires a free hand.
 
 **Range.** A weapon that can be used to make a ranged attack has a
 range in parentheses after the ammunition or thrown property. The range
@@ -94,7 +94,8 @@ either your Strength or your Dexterity, since the dagger has the finesse
 property.
 
 **Two-Handed.** This weapon requires two hands when you attack with
-it.
+it. This property is only relevant when you attack, not when you simply
+hold it.
 
 **Versatile.** This weapon can be used with one or two hands. A damage
 value in parentheses appears with the property---the damage when the

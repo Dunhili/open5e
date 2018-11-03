@@ -113,12 +113,6 @@ sub {
 ul, ol, dl {
   margin: 0;
   padding: 0;
-  list-style: none;
-  list-style-image: none;
-}
-
-li {
-  list-style: none;
 }
 
 dd {
@@ -5093,6 +5087,13 @@ footer span.commit code, footer span.commit .rst-content tt, .rst-content footer
 }
 .rst-content .sidebar.unofficial .sidebar-title.first:after {
   content: "UNOFFICIAL CLARIFICATION";
+}
+.rst-content .sidebar.quick-build {
+  background-color: #ddf7e8;
+  border-color: #27AE60;
+}
+.rst-content .sidebar.quick-build .sidebar-title {
+  background-color: #89e5b0;
 }
 .rst-content .highlighted {
   background: #F1C40F;

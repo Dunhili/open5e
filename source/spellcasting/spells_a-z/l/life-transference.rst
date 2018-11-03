@@ -1,0 +1,24 @@
+
+.. _srd:life-transference:
+
+Life Transference (XGE)
+-------------------------------------------------------------
+
+3rd-level necromancy
+^^^^^^^^^^^^^^^^^^^^^^^
+
+**Casting Time:** 1 action
+
+**Range:** 30 feet
+
+**Components:** V, S
+
+**Duration:** Instantaneous
+
+**Casting Classes:** Cleric, Wizard
+
+You take 4d8 necrotic damage, and one creature you choose and
+can see regains hit points equal to twice the damage you take.
+
+**At Higher Levels:** The damage increases by 1d8 for
+each slot level above 3rd.

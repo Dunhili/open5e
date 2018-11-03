@@ -7,6 +7,8 @@ Characters
 .. toctree::
    :titlesonly:
    :glob:
-   :maxdepth: 1
+   :maxdepth: 2
 
    *
+   backgrounds/index
+   races/index

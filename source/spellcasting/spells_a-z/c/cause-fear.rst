@@ -1,0 +1,25 @@
+
+.. _srd:cause-fear:
+
+Cause Fear (XGE)
+-------------------------------------------------------------
+
+1st-level necromancy
+^^^^^^^^^^^^^^^^^^^^^
+
+**Casting Time:** 1 action
+
+**Range:** 60 feet
+
+**Components:** V
+
+**Duration:** Concentration, up to 1 minute
+
+**Casting Classes:** Warlock, Wizard
+
+The target must succeed on a Wisdom saving throw or become :ref:`srd:frightened` of you. The frightened
+target can repeat the saving throw at the end of each of its turns. This spell has no effect
+on undead or constructs.
+
+**At Higher Levels:** You can target one additional creature for each slot level above 1st. The
+creatures must be within 30 feet of each other when you target them.
